@@ -21,7 +21,7 @@ This will produce `inventory.db` in the project directory.
 Install the required packages and start the Flask server:
 
 ```bash
-pip install flask pyautogen
+pip install flask ag2
 python ChuongTrinhChinh.py
 ```
 
